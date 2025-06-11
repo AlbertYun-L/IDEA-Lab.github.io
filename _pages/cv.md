@@ -11,35 +11,44 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Industrial Engineering and Operations Research , University of Illinois Chicago, 2023
+* M.S. in Environmental Engineering, University of California, Irvine, 2017
+* B.S. in Environmental and Resource Science, Zhejiang University, China, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Tenure-track Assistant Professor: Jun. 2025 - present
+  * Department of Industrial and Systems Engineering
+  * University of North Carolina at Charlotte
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Tenure-track Assistant Professor: Sep. 2023 - May 2025
+  * Department of Engineering
+  * Texas A&M University-Corpus Christi
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant: Sep.2018 - Jun.2023
+  * Department of Mechanical and Industrial Engineering
+  * University of Illinois Chicago
   
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Subjects:
+  * Renewable Energy Integration and Energy Management
+  * Sustainable and Advanced Manufacturing Systems
+  * Supply Chain Management
+  * Generative AI for interdisciplinary system innovation
+* Methodologies:
+  * Machine Learning and Reinforcement Learning
+  * Operations Research and Optimization
+  * Data-driven System Simulation and Analysis
+
+Funded Grant
+======
+* __PI.__ Deciphering Electricity Demand Profiles for Smart Load Management (Sponsor: Texas
+  A&M University-Corpus Christi Research Enhancement Funding Program). 
+* __Co-PI.__ Intelligent EV Charging Coordination During Natural Disasters for Grid Resiliency
+  (Sponsor: Texas A&M Engineering Experiment Station). 
+* __Co-PI.__ Towards Vision Zero: Resilient Digital-twin Enhanced Safety Analysis for Corpus
+  Christi (Sponsor: US Department of Transportation)
 
 Publications
 ======
@@ -59,6 +68,15 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Conference Chair, INFORMS 2024 Annual Meeting
+* Grant Panelist, 2023/2024 TAMU-CC Seed Grant
+* Journal paper reviewer for 13 journals
+* Organizer of the 2024 Coastal Bend Engineering Competition
+
+Awards
+======
+* IISE Best paper award in Manufacturing and Design track (2025)
+* Texas A&M Engineering Experiment Station (TEES) Research Collaborations Award
+  (2024)
