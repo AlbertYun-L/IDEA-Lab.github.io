@@ -50,13 +50,13 @@ Funded Grant
 * __Co-PI.__ Towards Vision Zero: Resilient Digital-twin Enhanced Safety Analysis for Corpus
   Christi (Sponsor: US Department of Transportation)
 
-Publications
+Recent Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Recent Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}

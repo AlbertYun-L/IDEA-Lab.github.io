@@ -15,9 +15,7 @@ validation of simulation models, read/write simulation data from/to external fil
 Class outcome demo
 ======
 Python solution for circuit board drilling sequence problem
-
-<div style="font-size: 60%;">
-{% highlight python %}
+```python
 import math
 from ortools.constraint_solver import routing_enums_pb2
 from ortools.constraint_solver import pywrapcp
@@ -79,5 +77,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-{% endhighlight %}
-</div>
+```
