@@ -10,7 +10,7 @@ redirect_from:
 Ph.D. Students
 ======
 
-Our IDEA Lab invites applications for funded PhD positions beginning __Fall 2025__.
+Our IDEA Lab invites applications for funded PhD positions beginning __Fall 2025__ (or Spring 2026).
 
 * __What you’ll do__:
   *	Develop and deploy optimization and AI models for manufacturing and/or energy management
