@@ -41,7 +41,7 @@ Research Interests
   * Operations Research and Optimization
   * Data-driven System Simulation and Analysis
 
-Funded Grant
+Funded Grants
 ======
 * __PI.__ Deciphering Electricity Demand Profiles for Smart Load Management (Sponsor: Texas
   A&M University-Corpus Christi Research Enhancement Funding Program). 
