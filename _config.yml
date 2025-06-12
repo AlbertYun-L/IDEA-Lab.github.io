@@ -24,7 +24,7 @@ repository               : "AlbertYun-L/IDEA-Lab.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/assets/images/Profile-Yun.jpg"
+  avatar           : "{{ site.baseurl }}/assets/images/Profile-Yun.jpg"
   name             : "Dr.Lingxiang(Albert) Yun"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor<br>Industrial and Systems Engineering<br>University of North Carolina at Charlotte"
