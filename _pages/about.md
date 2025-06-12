@@ -19,20 +19,20 @@ We pursue interdisciplinary research at the intersection of AI, optimization, an
 
 ## Energy Systems Management
 
-<img src='/assets/images/Energy-system.png'>
+<img src='{{ site.baseurl }}/assets/images/Energy-system.png'>
 
 We develop decision-making frameworks for the planning and control of energy systems, with a focus on integrating electric mobility, distributed generation, and energy storage. Our research explores the design and operation of smart microgrids to support multi-modal electrification, grid resilience, and sustainability in emerging energy infrastructures.
 
 
 ## DRL for Advanced Manufacturing Systems 
 
-<img src='/assets/images/RL-Manf.png'>
+<img src='{{ site.baseurl }}/assets/images/RL-Manf.png'>
 
 We explore the use of deep reinforcement learning (DRL) to enable adaptive and intelligent control in advanced manufacturing environments. DRL provides a promising framework for handling sequential decisions under uncertainty—such as fluctuating energy availability, dynamic supply and demand, and the production of highly customized products. Our research includes developing transferable DRL algorithms across varying system configurations and applying DRL to additive manufacturing for real-time, flexible process optimization.
 
 ## DRL-Augmented Models for Generative Design
 
-<img src='/assets/images/RL-gen.png'>
+<img src='{{ site.baseurl }}/assets/images/RL-gen.png'>
 
 This research explores integrating RL into the diffusion process to guide sample generation toward user-defined goals. By framing each denoising step as an RL-controlled action, we enable iterative, reward-driven fine-tuning of generative models—supporting complex design tasks in domains such as protein engineering and drug discovery.
 
