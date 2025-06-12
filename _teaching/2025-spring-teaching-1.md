@@ -17,4 +17,4 @@ Class outcome demo
 ======
 Visualization of PSO (Particle swarm optimization) algorithm in Matlab
 
-<img src='/assets/images/PSO_3D_animation.gif'>
+<img src='{{ site.baseurl }}/assets/images/PSO_3D_animation.gif'>

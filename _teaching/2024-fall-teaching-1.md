@@ -13,4 +13,4 @@ This course covers a large range of topics, from fundamental concepts and basic 
 Class outcome demo
 ======
 Excel solution for tax analysis
-<img src='/images/IEEN 2302 class.png'>
+<img src='{{ site.baseurl }}/assets/images/IEEN 2302 class.png'>

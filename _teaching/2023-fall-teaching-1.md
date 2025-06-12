@@ -15,4 +15,4 @@ validation of simulation models, read/write simulation data from/to external fil
 Class outcome demo
 ======
 Simulation for a parking lot with EV charging stations
-<img src='/images/Simulation_class.png'>
+<img src='{{ site.baseurl }}/assets/images/Simulation_class.png'>
