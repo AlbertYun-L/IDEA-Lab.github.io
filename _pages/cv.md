@@ -43,6 +43,10 @@ Research Interests
 
 Funded Grants
 ======
+* __PI.__ Optimizing Marine Energy Utilization in Microgrids for Micro and Light-Duty 
+  Electric Mobility Charging (Sponsor: North Carolina Coastal Studies Institute).
+* __PI.__ Enhancing Diffusion Models for De Novo Antibody Generation with Multi-Objectives
+  Through Reinforcement Learning (Sponsor: Eli Lilly and Company).
 * __PI.__ Deciphering Electricity Demand Profiles for Smart Load Management (Sponsor: Texas
   A&M University-Corpus Christi Research Enhancement Funding Program). 
 * __Co-PI.__ Intelligent EV Charging Coordination During Natural Disasters for Grid Resiliency
