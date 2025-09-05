@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "IDEA Lab"
 title_separator          : "-"
-name                     : &name "Lingxiang(Albert)  Yun"
+name                     : &name "Lingxiang(Albert) Yun"
 description              : &description "Assistant Professor
                                           Department of Industrial and Systems Engineering
                                           University of North Carolina at Charlotte"
