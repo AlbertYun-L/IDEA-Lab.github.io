@@ -30,10 +30,10 @@ Ph.D. Students
 <br><br>
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="{{ site.baseurl }}/assets/images/profile.png" alt="Taraneh Kamyab" style="width: 200px; margin-right: 20px;" />
+  <img src="{{ site.baseurl }}/assets/images/Taraneh.jpg" alt="Taraneh Kamyab" style="width: 200px; margin-right: 20px;" />
   <div>
     <strong>Taraneh Kamyab</strong><br />
-    Taraneh Kamyab Self-introduction.
+    Taraneh is a PhD Candidate at UNC Charlotte studying data-driven forecasting of infrastructure deterioration. With a background in civil engineering and data science, I enjoy building predictive models that can create real-world impact. I thrive on collaboration, problem-solving, and bringing creative ideas into technical projects.
   </div>
 </div>
 <br><br>
