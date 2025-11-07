@@ -58,3 +58,13 @@ Master's Students
   </div>
 </div>
 <br><br>
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="{{ site.baseurl }}/assets/images/Amanda.jpg" alt="Amanda Renjifo" style="width: 200px; margin-right: 20px;" />
+  <div>
+    <strong>Amanda Renjifo</strong><br />
+    Amanda Renjifo is pursuing a Master's in Engineering Management with a concentration in Energy Analytics at the University of North Carolina at Charlotte. She brings prior experience in federal energy management, private sector energy project development, and currently works for Duke Energy, developing energy resilience and efficiency projects for federal agencies. With a background in electrical engineering, Amanda is dedicated to creating technical, data driven energy solutions that enhance system reliability and strengthen resilience across critical infrastructure.   
+
+  </div>
+</div>
+<br><br>
