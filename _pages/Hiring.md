@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Ph.D. Students
+Ph.D. Student
 ======
 
 Our IDEA Lab invites applications for funded a PhD position beginning __Fall 2026__ (or Spring 2027).
@@ -27,4 +27,4 @@ Our IDEA Lab invites applications for funded a PhD position beginning __Fall 202
   *	Access to computational resources, dedicated lab space, and hands-on use of testbeds
   *	Active collaboration opportunities across other labs, universities, and industry partners
 
-__How to apply__: Please fill the form https://forms.gle/Fzn5KZ6NbVffthay9 by __June 15, 2026__.
+__How to apply__: Please fill the [application form](https://forms.gle/Fzn5KZ6NbVffthay9) by __June 15, 2026__.
