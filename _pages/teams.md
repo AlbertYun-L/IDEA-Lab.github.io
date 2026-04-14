@@ -10,7 +10,7 @@ redirect_from:
 Postdoc Scholar
 ======
 <div style="display: flex; align-items: flex-start;">
-  <img src="{{ site.baseurl }}/assets/images/Bilal Riaz.png" alt="Bilal Riaz" style="width: 200px; margin-right: 20px;" />
+  <img src="{{ site.baseurl }}/assets/images/Bilal Riaz.jpeg" alt="Bilal Riaz" style="width: 200px; margin-right: 20px;" />
   <div>
     <strong>Dr. Bilal Riaz</strong><br />
     Bilal Riaz studied computational optimal transport in his PhD. His research interests lie at the intersection of machine learning and optimization. More broadly, he is interested in generative modeling and variational methods for engineering design and analysis.
