@@ -36,4 +36,13 @@ We explore the use of deep reinforcement learning (DRL) to enable adaptive and i
 
 This research explores integrating RL into the diffusion process to guide sample generation toward user-defined goals. By framing each denoising step as an RL-controlled action, we enable iterative, reward-driven fine-tuning of generative models—supporting complex design tasks in domains such as protein engineering and drug discovery.
 
+---
+
+# Our Sponsors
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 40px; margin-top: 20px;">
+  <img src="{{ site.baseurl }}/assets/images/UNCC_2.png" alt="UNCC" style="height: 80px; object-fit: contain;">
+  <img src="{{ site.baseurl }}/assets/images/NCROEP.png" alt="NCROEP" style="height: 80px; object-fit: contain;">
+  <img src="{{ site.baseurl }}/assets/images/Eli Lilly.jpg" alt="Eli Lilly" style="height: 80px; object-fit: contain;">
+</div>
 
