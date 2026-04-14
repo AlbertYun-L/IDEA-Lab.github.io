@@ -10,7 +10,7 @@ redirect_from:
 Ph.D. Students
 ======
 
-Our IDEA Lab invites applications for funded PhD positions beginning __Fall 2025__ (or Spring 2026).
+Our IDEA Lab invites applications for funded a PhD position beginning __Fall 2026__ (or Spring 2027).
 
 * __What you’ll do__:
   *	Develop and deploy optimization and AI models for manufacturing and/or energy management
@@ -27,4 +27,4 @@ Our IDEA Lab invites applications for funded PhD positions beginning __Fall 2025
   *	Access to computational resources, dedicated lab space, and hands-on use of testbeds
   *	Active collaboration opportunities across other labs, universities, and industry partners
 
-__How to apply__: Send your CV, transcripts, and a 1‑page cover letter to <a href="mailto:lyun@charlotte.edu">lyun@charlotte.edu</a> by __July 15, 2025__.
+__How to apply__: Please fill the form https://forms.gle/Fzn5KZ6NbVffthay9 by __June 15, 2026__.
