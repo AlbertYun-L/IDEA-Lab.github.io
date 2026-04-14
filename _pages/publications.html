@@ -9,26 +9,22 @@ author_profile: true
 
 <h2>Journal Articles</h2>
 <hr />
-<ol reversed>
 {% assign journals = site.publications | where: "category", "manuscripts" | sort: "date" | reverse %}
 {% for pub in journals %}
-  <li style="margin-bottom: 1em;">
+  <div style="margin-bottom: 1em;">
     <strong>{{ pub.title }}</strong><br>
     {{ pub.excerpt | remove: "Authors: " }}<br>
     <em>{{ pub.venue }}</em>, {{ pub.date | date: "%Y" }}
-  </li>
+  </div>
 {% endfor %}
-</ol>
 
 <h2>Conference Papers</h2>
 <hr />
-<ol reversed>
 {% assign conferences = site.publications | where: "category", "conferences" | sort: "date" | reverse %}
 {% for pub in conferences %}
-  <li style="margin-bottom: 1em;">
+  <div style="margin-bottom: 1em;">
     <strong>{{ pub.title }}</strong><br>
     {{ pub.excerpt | remove: "Authors: " }}<br>
     <em>{{ pub.venue }}</em>, {{ pub.date | date: "%Y" }}
-  </li>
+  </div>
 {% endfor %}
-</ol>
