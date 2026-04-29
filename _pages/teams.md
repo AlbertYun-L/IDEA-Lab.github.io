@@ -63,20 +63,30 @@ Master's Students
 <br><br>
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="{{ site.baseurl }}/assets/images/Isaac.jpeg" alt="Isaac Oladipupo" style="width: 200px; margin-right: 20px;" />
-  <div>
-    <strong>Isaac Oladipupo</strong><br />
-    Isaac Oladipupo is a master’s student in Engineering Management at UNC Charlotte, concentrating in logistics and supply chain systems. He has professional experience at NTT Data, Johnson & Johnson, and AT&T, where he worked on supply chain technology projects, logistics systems design, and AI-driven forecasting. His interests focus on supply chain optimization, systems design, and applying engineering methods to improve efficiency and resilience.
-  </div>
-</div>
-<br><br>
-
-<div style="display: flex; align-items: flex-start;">
   <img src="{{ site.baseurl }}/assets/images/Amanda.jpg" alt="Amanda Renjifo" style="width: 200px; margin-right: 20px;" />
   <div>
     <strong>Amanda Renjifo</strong><br />
     Amanda Renjifo is pursuing a Master's in Engineering Management with a concentration in Energy Analytics at the University of North Carolina at Charlotte. She brings prior experience in federal energy management, private sector energy project development, and currently works for Duke Energy, developing energy resilience and efficiency projects for federal agencies. With a background in electrical engineering, Amanda is dedicated to creating technical, data driven energy solutions that enhance system reliability and strengthen resilience across critical infrastructure.   
 
+  </div>
+</div>
+<br><br>
+
+Alumni
+======
+
+<div style="display: flex; align-items: flex-start;">
+  <div>
+    <strong>Amanda Renjifo</strong> — M.S. in Engineering Management, 2026<br />
+    Capstone: "Microgrid Cost Optimization Analysis: Meeting Resilience Goals for Federal Agencies "<br />
+  </div>
+</div>
+<br><br>
+
+<div style="display: flex; align-items: flex-start;">
+  <div>
+    <strong>Isaac Oladipupo</strong> — M.S. in Engineering Management, 2025<br />
+    Capstone: "Optimizing Lithium-ion Battery Energy Storage System for Maximum Revenue: a Focus on Energy Arbitrage"<br />
   </div>
 </div>
 <br><br>
