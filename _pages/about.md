@@ -36,7 +36,7 @@ This research is funded by Junior Faculty Research (JFR) Grants.
 <img src='{{ site.baseurl }}/assets/images/RL-gen.png'>
 
 This research explores integrating RL into the diffusion process to guide sample generation toward user-defined goals. By framing each denoising step as an RL-controlled action, we enable iterative, reward-driven fine-tuning of generative models.
-In this project, we aim to use RL to guide anti-body generation process and efficient generate anti-body with different objectives. This work is supported by LRAP.
+In this project, we aim to use RL to guide antibody generation process and efficient generate antibody with different objectives. This work is funded by LRAP.
 
 ---
 
