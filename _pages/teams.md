@@ -85,7 +85,7 @@ Alumni
 -->
 
 <div style="display: flex; align-items: flex-start;">
-    <img src="{{ site.baseurl }}/assets/images/Isaac.jpg" alt="Isaac Oladipupo" style="width: 200px; margin-right: 20px;" /> 
+    <img src="{{ site.baseurl }}/assets/images/Isaac.jpeg" alt="Isaac Oladipupo" style="width: 200px; margin-right: 20px;" /> 
   <div>
     <strong>Isaac Oladipupo</strong> — M.S. in Engineering Management, 2025<br />
     Capstone: "Optimizing Lithium-ion Battery Energy Storage System for Maximum Revenue: a Focus on Energy Arbitrage"<br />
