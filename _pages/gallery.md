@@ -27,16 +27,12 @@ author_profile: true
 }
 </style>
 
-Conferences
+Research Events
 ======
 
 <div class="gallery-grid">
   <div>
     <img src="{{ site.baseurl }}/assets/images/IISE 2025.jpeg" alt="IISE 2025" />
-    <p class="gallery-caption">IISE Annual Conference 2025</p>
-  </div>
-  <div>
-    <img src="{{ site.baseurl }}/assets/images/IISE 2025-2.jpeg" alt="IISE 2025" />
     <p class="gallery-caption">IISE Annual Conference 2025</p>
   </div>
   <div>
@@ -47,16 +43,16 @@ Conferences
     <img src="{{ site.baseurl }}/assets/images/INOFRMS-2024.jpg" alt="INFORMS 2024" />
     <p class="gallery-caption">INFORMS Annual Meeting 2024</p>
   </div>
-</div>
-
-Research Events
-======
-
-<div class="gallery-grid">
   <div>
     <img src="{{ site.baseurl }}/assets/images/NCROEP_2026.jpeg" alt="NCROEP 2026" />
     <p class="gallery-caption">NCROEP Symposium 2026</p>
   </div>
+</div>
+
+Student Achievement
+======
+
+<div class="gallery-grid">
   <div>
     <img src="{{ site.baseurl }}/assets/images/NCROEP Symposium 2026-poster.jpeg" alt="NCROEP 2026 Poster" />
     <p class="gallery-caption">NCROEP Symposium 2026 — Poster Session</p>
@@ -66,21 +62,21 @@ Research Events
     <p class="gallery-caption">NCROEP Symposium 2026 — Poster Award</p>
   </div>
   <div>
-    <img src="{{ site.baseurl }}/assets/images/Eli Lilly.jpg" alt="Eli Lilly Visit" />
-    <p class="gallery-caption">Industry Visit — Eli Lilly</p>
+    <img src="{{ site.baseurl }}/assets/images/Omer_defense.jpeg" alt="Omer's Thesis Defense" />
+    <p class="gallery-caption">Omer Rehman — MS Thesis Defense, 2026</p>
   </div>
 </div>
 
-Lab Milestones
+Lab Life
 ======
 
 <div class="gallery-grid">
   <div>
-    <img src="{{ site.baseurl }}/assets/images/Omer_defense.jpeg" alt="Omer's Thesis Defense" />
-    <p class="gallery-caption">Omer Rehman — MS Thesis Defense, 2026</p>
+    <img src="{{ site.baseurl }}/assets/images/Gathering_Fall26.jpeg" alt="Gathering_Fall26" />
+    <p class="gallery-caption">Lab Gathering Fall26, 2026</p>
   </div>
   <div>
-    <img src="{{ site.baseurl }}/assets/images/Omer_thesis.png" alt="Omer's Thesis" />
-    <p class="gallery-caption">Omer Rehman — MS Thesis, 2026</p>
+    <img src="{{ site.baseurl }}/assets/images/Gathering_NCROEP26.jpeg" alt="Gathering_Fall26" />
+    <p class="gallery-caption">Lab Gathering NCROEP26, 2026</p>
   </div>
 </div>
