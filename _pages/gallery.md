@@ -14,7 +14,7 @@ author_profile: true
 }
 .swiper-slide img {
   width: 100%;
-  height: 320px;
+  height: 350px;
   object-fit: cover;
   border-radius: 6px;
   display: block;
