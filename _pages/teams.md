@@ -74,7 +74,7 @@ Master's Students
 
 Alumni
 ======
- <!--
+<!--
 <div style="display: flex; align-items: flex-start;">
   <div>
     <strong>Amanda Renjifo</strong> — M.S. in Engineering Management, 2026<br />
@@ -82,7 +82,7 @@ Alumni
   </div>
 </div>
 <br>
--->  
+-->
 
 <div style="display: flex; align-items: flex-start;">
   <div>
