@@ -91,11 +91,11 @@ Lab Life
   <div class="swiper-wrapper">
     <div class="swiper-slide">
       <img src="{{ site.baseurl }}/assets/images/Gathering_Fall26.jpeg" alt="Lab Gathering Fall 2026" />
-      <p class="gallery-caption">Lab Gathering — Fall 2026</p>
+      <p class="gallery-caption">Lab Lunch — Fall 2026</p>
     </div>
     <div class="swiper-slide">
       <img src="{{ site.baseurl }}/assets/images/Gathering_NCROEP26.jpeg" alt="Lab Gathering NCROEP 2026" />
-      <p class="gallery-caption">Lab Gathering — NCROEP 2026</p>
+      <p class="gallery-caption">Team Dinner — NCROEP 2026</p>
     </div>
   </div>
   <div class="swiper-button-prev"></div>
