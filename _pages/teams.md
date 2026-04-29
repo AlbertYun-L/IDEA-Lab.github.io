@@ -74,13 +74,15 @@ Master's Students
 
 Alumni
 ======
-
+ <!--
 <div style="display: flex; align-items: flex-start;">
   <div>
     <strong>Amanda Renjifo</strong> — M.S. in Engineering Management, 2026<br />
     Capstone: "Microgrid Cost Optimization Analysis: Meeting Resilience Goals for Federal Agencies "<br />
   </div>
 </div>
+<br>
+-->  
 
 <div style="display: flex; align-items: flex-start;">
   <div>
