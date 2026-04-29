@@ -81,7 +81,6 @@ Alumni
     Capstone: "Microgrid Cost Optimization Analysis: Meeting Resilience Goals for Federal Agencies "<br />
   </div>
 </div>
-<br><br>
 
 <div style="display: flex; align-items: flex-start;">
   <div>
