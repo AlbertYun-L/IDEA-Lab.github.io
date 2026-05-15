@@ -76,12 +76,12 @@ sequences, and self-disassembly failures.
 ## Energy Management
 
 <div class="research-item">
+  <div class="research-title">Demand response for fast-charging battery powered material handling equipment</div>
   <div class="research-img-grid">
     <img src="{{ site.baseurl }}/assets/images/framwork.png" alt="framwork" />
     <img src="{{ site.baseurl }}/assets/images/schedule2.png" alt="scheduel" />
     <img src="{{ site.baseurl }}/assets/images/cost.png" alt="cost" />
   </div>
-  <div class="research-title">Demand response for fast-charging battery powered material handling equipment</div>
   <div class="research-text">
     In this study, an analytical manufacturing and material handling
 system model is proposed to obtain cost-effective production schedules under demand response. The interactions
