@@ -15,7 +15,7 @@ Some examples of our research are shown below.
 }
 .research-img-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 12px;
   margin-bottom: 12px;
 }
@@ -45,7 +45,7 @@ Some examples of our research are shown below.
   <div class="research-title">Explainable multi-agent deep reinforcement learning for manufacturing system scheduling</div>
   <div class="research-img-grid">
     <img src="{{ site.baseurl }}/assets/images/DRL_train.gif" alt="DRL train " style="height: auto; object-fit: contain;"/>
-    <img src="{{ site.baseurl }}/assets/images/DRL_goal.png" alt="DRL_goal" style="height: 260px; width: auto; object-fit: contain;" />
+    <img src="{{ site.baseurl }}/assets/images/DRL_goal.png" alt="DRL_goal" style="height: auto; width: auto; object-fit: contain;" />
   </div>
   <div class="research-text">
     We develop deep reinforcement learning frameworks that integrate domain knowledge from manufacturing system modeling
