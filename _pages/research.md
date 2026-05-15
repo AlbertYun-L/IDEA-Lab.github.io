@@ -15,13 +15,13 @@ Some examples of our research are shown below.
 }
 .research-img-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   gap: 12px;
   margin-bottom: 12px;
 }
 .research-img-grid img {
   width: 100%;
-  height: 260px;
+  height: 240px;
   object-fit: cover;
   border-radius: 6px;
   display: block;
