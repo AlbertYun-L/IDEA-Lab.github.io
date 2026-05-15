@@ -44,7 +44,7 @@ Some examples of our research are shown below.
 <div class="research-item">
   <div class="research-title">Explainable multi-agent deep reinforcement learning for manufacturing system scheduling</div>
   <div class="research-img-grid">
-    <img src="{{ site.baseurl }}/assets/images/DRL_train.gif" alt="DRL train " style="height: auto; object-fit: contain;"/>
+    <img src="{{ site.baseurl }}/assets/images/DRL_train.gif" alt="DRL train " style="height: 240px; object-fit: contain;"/>
     <img src="{{ site.baseurl }}/assets/images/DRL_goal.png" alt="DRL_goal" style="height: auto; width: auto; object-fit: contain;" />
   </div>
   <div class="research-text">
