@@ -17,7 +17,7 @@ We design and apply **data-driven and algorithmic decision-making frameworks** t
 
 We pursue interdisciplinary research at the intersection of AI, optimization, and systems engineering. Our lab is currently focused on three key directions:
 
-## Marian Energy Microgrid Systems Management
+## Marine Energy Microgrid Systems Management
 
 <img src='{{ site.baseurl }}/assets/images/Energy-system.png'>
 
