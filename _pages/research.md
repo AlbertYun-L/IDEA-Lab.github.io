@@ -15,7 +15,7 @@ Some examples of our research are shown below.
 }
 .research-img-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 12px;
   margin-bottom: 12px;
 }
