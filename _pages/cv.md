@@ -17,17 +17,14 @@ Education
 
 Work experience
 ======
-* Tenure-track Assistant Professor: Jun. 2025 - present
-  * Department of Industrial and Systems Engineering
-  * University of North Carolina at Charlotte
+* Assistant Professor: 2025 - present, Department of Industrial and Systems Engineering,
+  University of North Carolina at Charlotte
 
-* Tenure-track Assistant Professor: Sep. 2023 - May 2025
-  * Department of Engineering
-  * Texas A&M University-Corpus Christi
+* Assistant Professor: 2023 - 2025, Department of Engineering,
+  Texas A&M University-Corpus Christi
 
-* Research Assistant: Sep.2018 - Jun.2023
-  * Department of Mechanical and Industrial Engineering
-  * University of Illinois Chicago
+* Research Assistant: 2018 - 2023, Department of Mechanical and Industrial Engineering,
+  University of Illinois Chicago
   
 Research Interests
 ======
