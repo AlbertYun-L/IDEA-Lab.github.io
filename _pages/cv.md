@@ -43,6 +43,8 @@ Research Interests
 
 Funded Grants
 ======
+* __PI.__ Transferable Deep Reinforcement Learning Across Diverse State and Action Dimensions for 
+   Energy-aware Manufacturing System Scheduling (Sponsor: UNC Charlotte).
 * __PI.__ Optimizing Marine Energy Utilization in Microgrids for Micro and Light-Duty 
   Electric Mobility Charging (Sponsor: North Carolina Coastal Studies Institute).
 * __PI.__ Enhancing Diffusion Models for De Novo Antibody Generation with Multi-Objectives
@@ -53,34 +55,17 @@ Funded Grants
   (Sponsor: Texas A&M Engineering Experiment Station). 
 * __Co-PI.__ Towards Vision Zero: Resilient Digital-twin Enhanced Safety Analysis for Corpus
   Christi (Sponsor: US Department of Transportation)
-
-Recent Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Recent Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service
 ======
-* Conference Chair, INFORMS 2024 Annual Meeting
+* Conference Chair, INFORMS 2024/2025 Annual Meeting
 * Grant Panelist, 2023/2024 TAMU-CC Seed Grant
-* Journal paper reviewer for 13 journals
+* Journal paper reviewer for 21 journals
 * Organizer of the 2024 Coastal Bend Engineering Competition
 
 Awards
 ======
+* John H. Maxheim Faculty Fellowship, UNC Charlotte (2026)
 * IISE Best paper award in Manufacturing and Design track (2025)
 * Texas A&M Engineering Experiment Station (TEES) Research Collaborations Award
   (2024)
