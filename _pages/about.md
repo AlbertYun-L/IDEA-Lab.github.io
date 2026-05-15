@@ -13,7 +13,7 @@ We design and apply **data-driven and algorithmic decision-making frameworks** t
 
 ---
 
-# Research Interests in the IDEA Lab
+# Current Projects in the IDEA Lab
 
 We pursue interdisciplinary research at the intersection of AI, optimization, and systems engineering. Our lab is currently focused on three key directions:
 
